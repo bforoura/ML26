@@ -1,3 +1,3 @@
-To run the streamlit app, first install streamlit and then:
+To run the streamlit app, first install streamlit and then at the command prompt type:
 
 streamlit run name_of_the_app.py
