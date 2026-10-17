@@ -1,1 +1,3 @@
+To run the streamlit app, first install streamlit and then:
 
+streamlit run name_of_the_app.py
